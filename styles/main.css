@@ -40,7 +40,7 @@ body {
 
 .menu__item {
     background: #FFFFFF;
-    box-shadow: 0px 8px 14px rgba(62, 187, 224, 0.12);
+    box-shadow: 0 8px 14px rgba(62, 187, 224, 0.12);
     border-radius: 12px;
     border: none;
     height: 45px;
@@ -181,7 +181,7 @@ input {
     border: 1px solid #E7EBFB;
     border-radius: 9px;
     padding: 12px 20px;
-    font: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', cursive;
     flex: 1;
     font-weight: 400;
     font-size: 14px;
@@ -196,7 +196,7 @@ input::placeholder {
     display: flex;
     gap: 15px;
     width: 100%;
-    padding: 0px 10px 0px 25px;
+    padding: 0 10px 0 25px;
     position: relative;
 }
 
